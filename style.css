@@ -1,0 +1,19 @@
+body{
+  font-family: "Gill Sans", sans-serif;
+}
+
+#desc{
+  margin: 50px;
+  font-size : 15pt;
+}
+
+a{
+  display:block;
+  font-size : 15pt;
+  text-decoration: none;
+  color:DodgerBlue;
+}
+
+a:hover{
+  color:grey;
+}
